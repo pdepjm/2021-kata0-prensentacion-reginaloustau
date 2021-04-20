@@ -2,4 +2,8 @@
 
 ## Estudiante: Regina Loustau
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vTNHQ5dzaVFhKPd4UxLOGhZa9Ix_bDgpyIftq4gqzz7674dHmHkcH2oH9TpQ_TsghZkiSPBoUm2ftzM/pub).
+Me llamo Regina, trabajo como programadora web en salesforce. Tambien forma parte 
+de la organizacion de nerdear.la (un evento anual sobre tecnologia y ciencia)
+
+![mi foto](foto.jpg)
+
